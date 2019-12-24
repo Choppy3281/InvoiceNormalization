@@ -1,0 +1,7 @@
+Run These Files First:
+Create_InvoicesTable.sql
+Create_ProductTable.sql
+Customers.sql
+CompanyInformation.sql
+
+You can run everything else after that
